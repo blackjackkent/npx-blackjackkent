@@ -23,11 +23,9 @@ const {
 	user_email,
 	twitter_username,
 	github_username,
-	linkedin_username,
 	personal_site,
 	discord,
 	patreon,
-	tiktok,
 	npx_card_handle,
 	job_title,
 } = user_data;
